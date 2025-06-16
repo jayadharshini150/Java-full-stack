@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>animalnames</h2>
+<ul>
+     <li>dog</li>
+     <li>monkey</li>
+     <li>cat</li>
+     <li>bear</li>
+     <li>horse</li>
+     <li>rabbit</li>
+     <li>lion</li>
+</ul>  
+<h2>birds names</h2>
+<ol>
+     <li>Peacock</li>
+     <li>Eagle</li>
+     <li>Myna</li>
+     <li>Parrot</li>
+     <li>butterfly</li>
+     <li>bee</li>
+</ol> 
+<p>flowersname</p>
+        <li>rose</li>
+         <li>dahlia</li>
+</body>
+</html>
+
+
+
